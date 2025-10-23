@@ -1,0 +1,15 @@
+{
+    "name": "antrew/hexlet-php",
+    "autoload": {
+        "psr-4": {
+            "Antrew\\HexletPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrey Nikolaenkov",
+            "email": "nichexplore@gmail.com"
+        }
+    ],
+    "require": {}
+}
