@@ -11,5 +11,7 @@
             "email": "nichexplore@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "illuminate/collections": "^12.35"
+    }
 }
