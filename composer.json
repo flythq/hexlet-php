@@ -4,8 +4,8 @@
         "psr-4": {
             "Antrew\\HexletPhp\\": "src/"
         },
-      "files": [
-        "src/Runner.php"
+        "files": [
+          "src/Runner.php"
       ]
     },
     "authors": [
